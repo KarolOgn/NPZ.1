@@ -1,2 +1,9 @@
 Weronika ma Tobiasza
 Tobiasz ma Weronike 
+<html>
+<head>
+</head>
+<body>
+tu jest jakas strona
+</body>
+</html>
