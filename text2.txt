@@ -3,3 +3,16 @@ Ciezka, ogormna i pot z niej splywa- tulsta oliwa.
 ciuch, ciuch.
 
 tutaj wierszyk sie tworzy jakis
+
+
+
+#include <stdio.h>
+
+int main(){
+	int a, b, suma;
+	a = 10;
+	b = 15;
+	suma = a + b;
+	printf("%d + %d = %d", a, b, suma);
+	return 0;
+}
