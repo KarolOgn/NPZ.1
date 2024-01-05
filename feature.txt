@@ -1,4 +1,5 @@
 Linia 1
+poprawka hotfix
 Linia 2
 Linia 3
 Funkcjonalnosc w branchu feature
