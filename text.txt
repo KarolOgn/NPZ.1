@@ -1,9 +1,17 @@
 Weronika ma Tobiasza
 Tobiasz ma Weronike 
+<!DOCTYPE html>
 <html>
 <head>
+
+<title>Page Title</title>
+
 </head>
 <body>
-tu jest jakas strona
+
+<centre><h1>tu jest jakas strona</h1></centre>
+<h2>jakis tekst</h2>
+<p>jakis paragraf</p>
+
 </body>
 </html>
